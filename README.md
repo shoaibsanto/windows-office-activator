@@ -52,5 +52,3 @@ Once the script runs, a menu will appear:
 
 ## 📜 License
 This project is open-source and licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-### 🔗 Source: [Trickbd.com](https://trickbd.com/windows-pc/3019659)
