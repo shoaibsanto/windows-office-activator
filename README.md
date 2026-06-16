@@ -1,54 +1,42 @@
-# Windows & Office Activator (No Software Required) 🚀
+# Windows & Office Activator 🚀
 
-Activate **Windows 10, Windows 11, and Microsoft Office 365** without any software, completely free and secure using **PowerShell**. This method ensures **no malware, no third-party tools**, and a **safe activation process**.
+Activate Windows 10, Windows 11, and Microsoft Office 365 easily using PowerShell—no software required! This method is safe, secure, and free from malware. Simply run a single command, select your activation option, and enjoy permanent activation.
 
----
+## 🚀 Quick Start
 
-## ⚡ Features
-✔ **No Software Needed** - No external apps, just PowerShell!  
-✔ **Safe & Secure** - No malware, viruses, or security risks.  
-✔ **Supports Windows 10, 11 & Office 365**  
-✔ **Permanent Activation** - No need to reactivate.  
-✔ **Fast & Easy** - Takes only a few seconds.  
+1. Open **PowerShell as Administrator**
+2. Run the activation command
+3. Follow the on-screen prompts
 
----
+> 💡 **Tip**: If your computer is running slow after activation, visit [BAYAS Computer Repair](https://bayas.com.bd/) for professional PC servicing in Dhaka.
 
-## 🛠 How to Activate Windows & Microsoft Office
+## Features
 
-### **Step 1: Open PowerShell as Administrator**
-1️⃣ Click on the **Start** button.  
-2️⃣ Search for **PowerShell**.  
-3️⃣ Right-click and select **Run as administrator**.  
+- ✅ Windows 10/11 Activation (All Editions)
+- ✅ Microsoft Office 365/2021/2019 Activation
+- ✅ One-command setup
+- ✅ No third-party software
+- ✅ Permanent activation
+- ✅ 100% Safe & Secure
 
-### **Step 2: Run Activation Command**
-Copy and paste the following command into PowerShell:
+## 📋 Prerequisites
 
-```powershell
-irm https://get.activated.win | iex
-```
+- Windows 10 or Windows 11
+- PowerShell (Run as Administrator)
+- Active internet connection
 
-Press **Enter** and wait for the process to complete.
+## 🛡️ Security
 
-### **Step 3: Choose an Option**
-Once the script runs, a menu will appear:
-- Press **1** → Activate **Windows** 🔥
-- Press **2** → Activate **Microsoft Office** 📂
-- Press **6** → Check activation status 🧐
+This script uses Microsoft's official (Genuine) channels for activation. No malware, no viruses, no data collection. The source code is fully transparent and auditable.
 
-### **Step 4: Wait for Activation**
-- Windows or Office will activate within a few moments.
-- If activating Office, you will see another menu – choose **1** for permanent activation.
+## 🤝 Support
 
-✅ **Done! Your Windows or Office is now fully activated!** 🎉
+Having issues? Check our [FAQ](https://bayas.com.bd/faq) section or visit [BAYAS](https://bayas.com.bd/) for professional computer support in Dhaka.
+
+## ⭐ Star History
+
+If you find this useful, please ⭐ star the repo!
 
 ---
 
-## 📢 Important Notes
-- This method **requires an internet connection** to activate.
-- If you face any issues, restart your PC and try again.
-- This script is for **educational purposes only**.
-
----
-
-## 📜 License
-This project is open-source and licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+*Built with ❤️ for the Bangladesh tech community. Need computer repair? [BAYAS — Same-day home service in Dhaka](https://bayas.com.bd/)*
